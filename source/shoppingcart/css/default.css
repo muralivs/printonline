@@ -1,0 +1,80 @@
+/* Layout hacks
+---------------------------------------------------------------------------------------------------- */
+.clearfix:after {   /* fixes FF (applies background color regardless of height of left content or sidebar) */
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.clearfix { display: inline-block; }
+
+/* Hides from IE-mac \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* End hide from IE-mac */
+
+/* Landing page
+---------------------------------------------------------------------------------------------------- */
+
+
+
+
+
+
+/* modmac elements
+---------------------------------------------------------------------------------------------------- */
+.dropdown {
+	margin-bottom: 5px;
+}
+
+.dropdown,
+.dropdownitem {
+	width:140px;
+	
+}
+
+.dropdown .arrow {
+	background:transparent url(../images/bg_dropdown_arrow.jpg) no-repeat right top;
+	display: inline;
+	float: left;
+	width:auto;
+	
+	padding-right: 22px;
+	cursor: pointer;
+}
+
+.dropdown .list {
+	background:transparent url(../images/bg_dropdown.jpg) no-repeat left top;
+	height: 22px;
+	padding-right:10px
+}
+
+.dropdown .list p {
+	margin: 0;
+	padding: 0 0 0 10px;
+	font-family: Arial, 'Lucida Grande', sans-serif;
+	font-size: 10px;
+	line-height: 19px;
+}
+
+.dropdownitem {
+	position: absolute;
+	z-index: 22;
+	border: 1px solid #95ab7c;
+}
+
+.dropdownitem p {
+	background: transparent url(../images/transparency.png) no-repeat left top;
+	margin: 0;
+	padding: 0;
+	font-family: Arial, 'Lucida Grande', sans-serif;
+	font-size: 10px;
+	line-height: 16px;
+	background-color:#f5f8f2;
+}
+
+.dropdownitem p.selected {
+	background-image: url(../images/bg_selected.gif);
+}

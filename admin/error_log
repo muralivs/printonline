@@ -1,0 +1,17 @@
+[03-Mar-2010 11:33:28] PHP Parse error:  syntax error, unexpected $end in /home/daybizc/public_html/products/businesscardnew/includes/admin_functions.php on line 833
+[03-Mar-2010 11:34:41] PHP Parse error:  syntax error, unexpected $end in /home/daybizc/public_html/products/businesscardnew/includes/admin_functions.php on line 206
+[03-Mar-2010 11:34:51] PHP Parse error:  syntax error, unexpected $end in /home/daybizc/public_html/products/businesscardnew/includes/admin_functions.php on line 1098
+[09-Dec-2012 08:48:49 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/printonl/public_html/includes/db_connect.php on line 25
+[09-Dec-2012 08:48:49 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/printonl/public_html/includes/db_connect.php on line 26
+[09-Dec-2012 08:53:55 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/printonl/public_html/includes/db_connect.php on line 25
+[09-Dec-2012 08:53:55 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/printonl/public_html/includes/db_connect.php on line 26
+[09-Dec-2012 08:53:57 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/printonl/public_html/includes/db_connect.php on line 25
+[09-Dec-2012 08:53:57 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/printonl/public_html/includes/db_connect.php on line 26
+[09-Dec-2012 08:54:30 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/printonl/public_html/includes/db_connect.php on line 25
+[09-Dec-2012 08:54:30 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/printonl/public_html/includes/db_connect.php on line 26
+[09-Dec-2012 08:54:48 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/printonl/public_html/includes/db_connect.php on line 25
+[09-Dec-2012 08:54:48 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/printonl/public_html/includes/db_connect.php on line 26
+[09-Dec-2012 08:54:50 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/printonl/public_html/includes/db_connect.php on line 25
+[09-Dec-2012 08:54:50 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/printonl/public_html/includes/db_connect.php on line 26
+[12-Dec-2013 14:32:05 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/printonl/public_html/includes/db_connect.php on line 25
+[12-Dec-2013 14:32:05 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/printonl/public_html/includes/db_connect.php on line 26

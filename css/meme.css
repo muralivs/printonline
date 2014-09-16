@@ -1,0 +1,212 @@
+
+@font-face
+{
+font-family: Blockography;
+src: url('../Fonts/Blockography.ttf');
+}
+@font-face
+{
+font-family: Pipe;
+src: url('../Fonts/abc,pipe.ttf');
+}
+
+@font-face
+{
+font-family: AbductionII;
+src: url('../Fonts/AbductionII.ttf');
+}
+
+@font-face
+{
+font-family: Memes;
+src: url('../Fonts/Memes.ttf');
+}
+
+
+@font-face
+{
+font-family: Memetica;
+src: url('../Fonts/Memetica.ttf');
+}
+
+@font-face
+{
+font-family: ComicaBD;
+src: url('../Fonts/Comica BD.ttf"');
+}
+
+@font-face
+{
+font-family: Eclipse;
+src: url('../Fonts/EclipseDEMO.ttf"');
+}
+
+@font-face
+{
+font-family: BOWSHADW;
+src: url('../Fonts/BOWSHADW.ttf"');
+}
+
+
+@font-face
+{
+font-family: Action Man Shaded;
+src: url('../Fonts/Action Man Shaded.ttf"');
+}
+
+@font-face
+{
+font-family: CHOCDTRIAL;
+src: url('../Fonts/CHOCD TRIAL___.otf"');
+}
+
+.draggable { 
+	position:absolute; 
+	/*width:350px; */
+	height:auto;
+	/*min-height:80px; */
+	color:#000000;
+
+	font-family:Arial;
+	font-size:36px;
+	white-space:normal;
+	padding:1px 1px 1px 1px;
+	font-weight:bolder;
+	text-shadow: 2px 2px 0px #CCCCCC;
+	
+}
+
+.draggable span { 
+	overflow:hidden;
+	cursor:move;
+	
+}
+
+/*#draggable1 {
+	left:140px; 
+	top:50px;
+	text-align:center;
+}
+
+#draggable2 {
+	left:140px; 
+	top:250px;
+}*/
+
+.draggable:hover {
+	/*background:#ADB7DC;*/
+	opacity:0.7;
+	font:bold;
+	border:#ADB7DC solid 1px;
+}
+
+/*.draggable span img:hover {
+border:#CCCCCC solid 1px;
+}
+*/
+#containment-wrapper {
+	position:relative;
+	width:470px;
+	overflow:hidden;
+	/*max-height:600px;*/
+
+	/*border:1px #000000 solid;*/
+}
+
+
+#containment-wrapper2 {
+	position:relative;
+	width:470px;
+	overflow:hidden;
+	/*max-height:600px;*/
+
+	/*border:1px #000000 solid;*/
+}
+#clr{
+	margin:auto;
+	float:left;
+}
+
+#clr div{
+	cursor:pointer;
+	cursor:hand;
+	width:20px;
+	height:20px;
+	float:left;
+	overflow:hidden;
+}
+
+div.fileinputs {
+	position: relative;
+}
+
+div.fakefile {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	bottom:0px;
+	z-index: 1;
+	
+}
+
+/*input.file {
+	position: relative;
+	text-align: right;
+	-moz-opacity:0 ;
+	filter:alpha(opacity: 0);
+	opacity: 0;
+	z-index: 3;
+	cursor:pointer;
+}*/
+
+.color {
+	position: relative;
+	-moz-opacity:0 ;
+	filter:alpha(opacity: 0);
+	opacity: 0;
+	z-index: 3;
+	cursor:pointer;
+	
+	border:none; 
+	width:24px; 
+	height:23px; 
+	font-size:2px;
+	border:1px #000000 solid;
+}
+/*#captioner {
+	float:left;
+	color: #1a364c;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: right;
+	padding:0 6px 0 0;
+}*/
+
+
+
+
+.draggable2 { 
+	position:absolute; 
+	/*width:350px; */
+	height:auto;
+	/*min-height:80px; */
+	color:#000000;
+
+	font-family:Arial;
+	font-size:36px;
+	white-space:normal;
+	padding:1px 1px 1px 1px;
+	font-weight:bolder;
+	text-shadow: 2px 2px 0px #CCCCCC;
+}
+
+.draggable2 span { 
+	overflow:hidden;
+	cursor:move;
+}
+
+.draggable2:hover {
+	background:#ADB7DC;
+	opacity:0.7;
+	font:bold;
+}

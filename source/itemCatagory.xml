@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<category>
+	<title>
+		<word>Prabhu</word>
+		<thumbs>yes</thumbs>
+		<helpfulText>choose a catagory to load its list of corresponding items</helpfulText>
+		<backTo>nowhere</backTo>
+		<thumbnails>
+			<pic>
+			<image>1236255054alone</image>
+			<title>test</title>
+			<path>itemImages/</path>
+			<backto>catagory</backto>
+			<id>11</id>
+			</pic>
+		</thumbnails>
+	</title>
+	<title>
+		<word>title</word>
+		<thumbs>yes</thumbs>
+		<helpfulText>choose a catagory to load its list of corresponding items</helpfulText>
+		<backTo>nowhere</backTo>
+		<thumbnails>
+			<pic>
+			<image>1261196975prod-img2</image>
+			<title>test</title>
+			<path>itemImages/</path>
+			<backto>catagory</backto>
+			<id>12</id>
+			</pic>
+		</thumbnails>
+	</title>
+</category><?xml version="1.0" encoding="utf-8"?>
+<category>
+	<title>
+		<word>Prabhu</word>
+		<thumbs>yes</thumbs>
+		<helpfulText>choose a catagory to load its list of corresponding items</helpfulText>
+		<backTo>nowhere</backTo>
+		<thumbnails>
+			<pic>
+			<image>1236255054alone</image>
+			<title>test</title>
+			<path>itemImages/</path>
+			<backto>catagory</backto>
+			<id>11</id>
+			</pic>
+		</thumbnails>
+	</title>
+	<title>
+		<word>title</word>
+		<thumbs>yes</thumbs>
+		<helpfulText>choose a catagory to load its list of corresponding items</helpfulText>
+		<backTo>nowhere</backTo>
+		<thumbnails>
+			<pic>
+			<image>1261196975prod-img2</image>
+			<title>test</title>
+			<path>itemImages/</path>
+			<backto>catagory</backto>
+			<id>12</id>
+			</pic>
+		</thumbnails>
+	</title>
+</category>

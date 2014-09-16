@@ -1,0 +1,75 @@
+	.dhtmlgoodies_tabPane{
+	height:29px;	/* Height of tabs */
+	
+	}
+	.dhtmlgoodies_aTab{
+	background-color:#FFFFFF;
+	padding: 10px;
+	border: 1px solid #bbbbbb;
+		
+	}
+	.dhtmlgoodies_tabPane DIV{
+	float:left;
+	vertical-align:middle;
+	background-repeat:no-repeat;
+	background-position:bottom left;
+	cursor:pointer;
+	position:relative;
+	bottom:-1px;
+	margin-left:0px;
+	margin-right:0px;
+	}
+	.dhtmlgoodies_tabPane .tabActive{
+	background-image:url('../images/tab_left_active.gif');
+	margin-left:0px;
+	margin-right:6px;
+	z-index:10;
+	padding-right: 0px;
+	padding-left: 5px;
+	}
+	.dhtmlgoodies_tabPane .tabInactive{
+	background-image:url('../images/tab_left_inactive.gif');
+	margin-left:0px;
+	margin-right:6px;
+	z-index:1;
+	padding-left: 5px;
+	}
+
+	.dhtmlgoodies_tabPane .inactiveTabOver{
+	background-image:url('../images/tab_left_over.gif');
+	margin-left:0px;
+	margin-right:6px;
+	font-family:verdana;
+	vertical-align:top;
+	font-size:10px;
+	line-height:26px;
+	color:#1e1e1e;
+	font-weight: bold;
+	float:left;
+	padding-left: 5px;
+	}
+	.dhtmlgoodies_tabPane span{
+	font-family:verdana;
+	vertical-align:top;
+	font-size:10px;
+	padding-left:6px;
+	padding-right:6px;
+	line-height:26px;
+	color:#959594;
+	font-weight: bold;
+	float:left;
+	}
+	.dhtmlgoodies_tabPane .tabActive span{
+	padding-bottom:1px;
+	line-height:26px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #1e1e1e;
+	text-decoration: none;
+	text-align: center;
+	}
+	
+	.dhtmlgoodies_tabPane img{
+		float:left;
+	}

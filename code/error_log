@@ -1,0 +1,2 @@
+[03-Mar-2010 10:35:59] PHP Fatal error:  Call to undefined function  checksessionout() in /home/daybizc/public_html/products/businesscardnew/code/login.php on line 2
+[03-Mar-2010 10:41:13] PHP Fatal error:  Call to a member function Login() on a non-object in /home/daybizc/public_html/products/businesscardnew/code/login.php on line 9

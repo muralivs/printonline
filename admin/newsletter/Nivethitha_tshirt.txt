@@ -1,0 +1,134 @@
+NIVETHITHA ERROR REPORT ON T SHIRT
+
+
+1. If we get enter into the action icon, for the username inetsol, the password should be invisible to all and too for the user who is entering.
+=> here the password is visible.
+
+2. In edit user information, if we used to hit the edit option, it have to link to the edit page.
+=> here it is coming back to Home page itself. 
+
+3.In new user profile list, there should be an option for registeration for new users, like username and password.
+=> here there is no such option.
+=>/hsphere/local/home/vsjayan/2daybiz.com/products/tshirt/admin/newuserajax.php 
+ -> this link is not helping to link.
+=> in view option the pages are not in the ordered form (1 to 100). only 10,30,50,100 is available.
+=>if we select the the page 30, it is not giving any responce.
+=> there is no responce in hitting the Total records found.
+
+4.In user profile list, if we get enter into the action icon of the user mitch,
+=> the link page only available for 2 seconds.
+=> if we activate the profile status, it showing the status as inactive.
+=>in date of joining option, we cant able to select the date. and too it is not showing the people who got selected in last week, last year etc.
+=> the pages option from 1 to 5, all showing the same page.
+
+5.website url and mail url link are not connecting which is given in the general settings.
+
+6.the back option is going directly to the home page.
+
+7.submitting  categoty name should not giving any responce, it again come to the category management page.
+
+8.country flag for some countries are not available.
+
+9. edit option is coming back to home page and submit button got freezed.
+
+10.there is no records found in the group name of cogzidel which is given in the group management.
+
+11.no such designs are found in the search design option.
+
+12.Design Number,Product Number,Buyer Name are available in the order management option. but the status are noted as payment completed.
+
+13.Finally have to check whether the page loging out completely.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

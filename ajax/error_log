@@ -1,0 +1,17 @@
+[19-Jun-2010 00:41:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/daybizc/public_html/products/businesscard/ajax/selcat.php on line 16
+[19-Jun-2010 00:41:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/daybizc/public_html/products/businesscard/ajax/selcat.php on line 16
+[08-Dec-2012 21:29:25 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/printonl/public_html/includes/db_connect.php on line 25
+[08-Dec-2012 21:29:25 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/printonl/public_html/includes/db_connect.php on line 26
+[08-Dec-2012 21:29:25 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'printonl'@'localhost' (using password: NO) in /home/printonl/public_html/ajax/check_username.php on line 7
+[08-Dec-2012 21:29:25 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/printonl/public_html/ajax/check_username.php on line 7
+[08-Dec-2012 21:29:25 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/printonl/public_html/ajax/check_username.php on line 7
+[08-Dec-2012 21:35:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/printonl/public_html/ajax/check_username.php on line 7
+[08-Dec-2012 21:36:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/printonl/public_html/ajax/check_username.php on line 7
+[08-Dec-2012 21:36:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/printonl/public_html/ajax/check_username.php on line 7
+[08-Dec-2012 21:36:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/printonl/public_html/ajax/check_username.php on line 7
+[08-Dec-2012 21:36:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/printonl/public_html/ajax/check_username.php on line 7
+[09-Dec-2012 08:22:58 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/printonl/public_html/includes/db_connect.php on line 25
+[09-Dec-2012 08:22:58 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/printonl/public_html/includes/db_connect.php on line 26
+[09-Dec-2012 08:22:58 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'printonl'@'localhost' (using password: NO) in /home/printonl/public_html/ajax/check_username.php on line 7
+[09-Dec-2012 08:22:58 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/printonl/public_html/ajax/check_username.php on line 7
+[09-Dec-2012 08:22:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/printonl/public_html/ajax/check_username.php on line 7
